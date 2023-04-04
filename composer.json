@@ -1,0 +1,15 @@
+{
+    "name": "freekattema/wp-zigzagify",
+    "autoload": {
+        "psr-4": {
+            "Freekattema\\WpZigzagify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Freek Attema",
+            "email": "info@freek-attema.nl"
+        }
+    ],
+    "require": {}
+}
