@@ -1,6 +1,7 @@
 {
     "name": "freekattema/wp-zigzagify",
     "description": "A wordpress plugin to easily change things i have to do with every wordpress project.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Freekattema\\WpZigzagify\\": "src/"
